@@ -2,9 +2,9 @@
 lec 2
 numbers, strings, and variables
 '''
-# print( type('hello'))
-# print( type(123) )
-# print( type(123.2) )
+print( type('hello'))
+print( type(123) )
+print( type(123.2) )
 print( 'hello' )
 print( "hello")
 print( " it's our 2nd python class")
