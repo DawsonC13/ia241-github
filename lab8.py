@@ -37,4 +37,3 @@ def find_min(input_list):
                 possible_result = num
 
     return(possible_result)
-    
